@@ -1,0 +1,9 @@
+# Ignore large or build files
+*.exe
+*.pkg
+dist/
+build/
+
+# Allow notebook and CSV
+!*.ipynb
+!*.csv
